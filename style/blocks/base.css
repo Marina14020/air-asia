@@ -72,7 +72,7 @@ img {
 }
 
 .wrapper__content--main {
-    background: url("../../img/background.jpg");
+    background: url("img/background.jpg");
     background-repeat: no-repeat;
 }
 
